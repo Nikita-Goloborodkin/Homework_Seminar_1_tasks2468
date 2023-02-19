@@ -1,0 +1,15 @@
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\bin\Debug\net7.0\Homework_task_1.exe
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\bin\Debug\net7.0\Homework_task_1.deps.json
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\bin\Debug\net7.0\Homework_task_1.runtimeconfig.json
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\bin\Debug\net7.0\Homework_task_1.dll
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\bin\Debug\net7.0\Homework_task_1.pdb
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.dll
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\refint\Homework_task_1.dll
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.pdb
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\Homework_task_1.genruntimeconfig.cache
+C:\Users\Huawei\Desktop\Homework_Seminar_1\Homework_task_1\obj\Debug\net7.0\ref\Homework_task_1.dll
